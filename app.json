@@ -1,6 +1,6 @@
 {
-  "name": "Inviteall",
-  "description": "Accha H LegendBoy.",
+  "name": "AGORA KIDNAP BOT",
+  "description": "MADE WITH LOVE AND HARDWORK MY MR AGORA.",
   "logo": "",
     "env": {
       "STRING": {
@@ -380,12 +380,12 @@
       },
       "GROUP_USERNAME": {
         "description": "WRITE UR GROUP USERNAME. Id Will Automatically Add to that Group",
-        "value": "@LB_OffTopic",
+        "value": "@TEAM_AGORA",
         "required": true
       },      
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "5272015055",
         "required": true
       }
   },
