@@ -1,4 +1,4 @@
-# INVITEALL
+# AGORA KIDNAP BOT ( MEMBERS SCRAPING FROM GROUP TO ADD TO GROUPS )
 <p>
 <h2> This Is INVITEALL Of <a href="https://telegram.me/MR_AGORA">@MR-AGORA</a></h2>
 </p>
